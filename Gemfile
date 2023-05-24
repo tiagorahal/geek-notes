@@ -13,6 +13,7 @@ gem "jbuilder"
 gem "tailwindcss-rails", "~> 2.0"
 gem 'faker'
 gem 'carrierwave'
+gem 'devise'
 
 gem "tzinfo-data", platforms: %i[ mingw mswin x64_mingw jruby ]
 gem "bootsnap", require: false
